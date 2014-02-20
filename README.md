@@ -1,0 +1,4 @@
+MAGS
+====
+
+Everything about MAGS 
